@@ -1,1 +1,3 @@
 # Stock-Market-Data-Analysis-Project
+
+This is a project focusing on stock market analysis, utilizing data sourced from Yahoo Finance through the **`yfinance`** library. This endeavor delves into various facets of stock behavior, including price trends, volatility, and trading volume. By leveraging yfinance, we access real-time and historical data to conduct thorough analyses, deriving valuable insights pivotal for informed investment decisions.
